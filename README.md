@@ -75,4 +75,4 @@ The web application serves as the central command hub, prioritizing situational 
 ### Software Deployment
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/leelasudarshan-git/ore-hazard-explorer.git](https://github.com/leelasudarshan-git/ore-hazard-explorer.git)
+   git clone [https://github.com/Mokshit-13/Ore-Hazard-Explorer.git](https://github.com/Mokshit-13/Ore-Hazard-Explorer.git)
