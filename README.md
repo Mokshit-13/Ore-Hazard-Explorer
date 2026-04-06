@@ -73,6 +73,6 @@ The web application serves as the central command hub, prioritizing situational 
 4. Ensure both microcontrollers share a common ground if powered from the same battery source.
 
 ### Software Deployment
-1. **Clone the Repository:**
+ **To Clone the Repository:**
    ```bash
    git clone [https://github.com/Mokshit-13/Ore-Hazard-Explorer.git](https://github.com/Mokshit-13/Ore-Hazard-Explorer.git)
